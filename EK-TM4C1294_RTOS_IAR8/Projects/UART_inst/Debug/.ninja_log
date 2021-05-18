@@ -1,0 +1,26 @@
+# ninja log v5
+2	341	6429966650772681	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/startup_TM4C1294.o	7d1e2404d86ab819
+265	622	6429966653428822	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/rtx_lib.o	3b2808563e137089
+817	859	6430679627091904	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.bin	db9355b213471235
+350	672	6429966653897554	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/system_TM4C1294_TW.o	7e6e025ac46930b6
+697	1280	6429966659991102	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/uartstdio.o	57643467eb80a376
+644	933	6429966656553736	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/RTX_Config.o	7a050d055de31bec
+503	793	6430679626231619	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.out	4cb14cf062530648
+3	481	6430679623152162	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/UART_inst.o	fb2ce37148bdcc
+2	270	6427163100418247	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/driverleds.o	258a6b4498fd8028
+1349	1542	6429966662803539	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/List/UART_inst.map	a37425f469cf23a7
+3	305	6430680938627165	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/UART_inst.o	fb2ce37148bdcc
+327	538	6430680940863873	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.out	4cb14cf062530648
+562	615	6430680941823267	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.bin	db9355b213471235
+2	319	6430683553182923	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/UART_inst.o	fb2ce37148bdcc
+341	581	6430683555752119	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.out	4cb14cf062530648
+603	653	6430683556664628	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.bin	db9355b213471235
+2	465	6430686051660472	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/UART_inst.o	fb2ce37148bdcc
+487	679	6430686053708820	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.out	4cb14cf062530648
+703	758	6430686054708323	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.bin	db9355b213471235
+4	348	6430688339881459	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/UART_inst.o	fb2ce37148bdcc
+369	555	6430688342071324	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.out	4cb14cf062530648
+580	640	6430688343107569	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.bin	db9355b213471235
+2	517	6430698866918753	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Obj/UART_inst.o	fb2ce37148bdcc
+543	825	6430698869856545	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.out	4cb14cf062530648
+850	994	6430698871807376	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/UART_inst/ewarm/Exe/UART_inst.bin	db9355b213471235

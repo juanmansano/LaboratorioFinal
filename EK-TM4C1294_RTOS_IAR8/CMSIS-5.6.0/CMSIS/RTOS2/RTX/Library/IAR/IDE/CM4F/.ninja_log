@@ -1,0 +1,16 @@
+# ninja log v5
+1	490	6427147288197145	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Handlers/irq_cm4f.o	b8b0e0cde4b5a25
+347	774	6427147290853324	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/os_systick.o	ab2ac884234c9c24
+795	1120	6427147294446971	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_delay.o	37257f265cc4a84e
+496	1291	6427147296165646	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_evflags.o	7e4d27177a335ac9
+1311	1815	6427147301321767	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_evr.o	5457b1cac053c9b5
+1139	2006	6427147303196723	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_kernel.o	b3e17189cf83795c
+1837	2295	6427147306165399	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_memory.o	223e84c8d43ef2cc
+2028	2838	6427147311633943	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_mempool.o	33658ee8cc78c79
+2862	3276	6427147316008807	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_system.o	8da0d6c8cf0f2031
+2317	3437	6427147317571239	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_msgqueue.o	af9c59e019e70c5
+3459	4128	6427147324446027	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_timer.o	438f295ac10befad
+4148	4770	6427147330852138	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_semaphore.o	a650fb830e985b87
+3298	5272	6427147335851933	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_thread.o	e334652df2488a6
+4793	5472	6427147338039380	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_mutex.o	ec1a48533bb9e393
+5497	5594	6427147339289319	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Exe/RTX_CM.a	4d94acb7d379e571

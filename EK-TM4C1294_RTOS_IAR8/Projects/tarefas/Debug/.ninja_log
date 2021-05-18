@@ -1,0 +1,9 @@
+# ninja log v5
+0	152	6427163938836950	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	b36e02dcec987164
+20	262	6427163939774429	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/RTX_Config.o	48b67bdc367d6961
+159	440	6427163941336865	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	367aae68cce8e88a
+282	620	6427163943368045	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/driverleds.o	4fd69185337cc0b4
+462	721	6427163944305520	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	3ac2941b25f7c1e8
+639	940	6427163946539260	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	72a1d5a7dda07f5b
+961	1215	6427163949195433	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	d91e804099fc8815
+1238	1295	6427163950132931	E:/Universidade/2020_2/Sistemas Embarcados/LaboratorioFinal/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	1cd7f9c87381cd1f

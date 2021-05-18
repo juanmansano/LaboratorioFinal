@@ -1,0 +1,22 @@
+uartstdio.pbi: \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\TivaWare_C_Series-2.1.4.178\utils\uartstdio.c \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\Projects\UART_inst\src\UART_Config.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\stdbool.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.5\arm\inc\c\stdarg.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\inc/hw_types.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\inc/hw_uart.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\driverlib/debug.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\driverlib/rom.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\driverlib/rom_map.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\driverlib/uart.h \
+  C:\Users\hviei\Documents\GitHub\EK-TM4C1294_RTOS_IAR8\Projects\UART_inst\..\..\TivaWare_C_Series-2.1.4.178\utils/uartstdio.h
